@@ -1,5 +1,5 @@
 
-import { Education, Hero,Internship, Project, Skills } from "../components";
+import { Education, Hero,Internship, Project, Skills, Hobbies } from "../components";
 
 export default function Home() {
   return (
@@ -9,6 +9,7 @@ export default function Home() {
       <Project />
       <Skills />
       <Education />
+      <Hobbies />
     </main>
   );
 }
