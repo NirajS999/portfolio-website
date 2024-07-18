@@ -10,7 +10,7 @@ const Footer = () => {
       <div>
         <Contact />
       </div>
-      <div className='flex flex-col gap-8 items-center py-16 lg:flex-row lg:justify-around'>
+      <div className='flex flex-col gap-8 items-center py-16 md:flex-row md:justify-around'>
         <div className='footer-links'>
         {footerLinks.map((data) =>(
           <div key={data.title} className='hover-effect'>
