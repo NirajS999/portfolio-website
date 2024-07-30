@@ -50,7 +50,7 @@ const Contact = () => {
                 <label htmlFor="">Name</label>
                 <input
                 className='block h-12 w-full rounded-md border border-gray-800 bg-gray-950 px-3 py-2 focus:outline-none focus:ring-1 focus:ring-gray-400 focus:ring-offset-1 focus:ring-offset-gray-50'
-                placeholder='Enter Text Here'
+                placeholder='userName'
                 name="user_name"
                 required
                 />

@@ -41,6 +41,19 @@ export const Projects=[
             }
         ]
     },
+
+    {
+        title:"School Website",
+        subtitle:"Based on the given Instructions and Data the website was developed for school",
+        technologies:"Reactjs, Tailwindcss",
+        links:[
+            {
+                title:"Go to Website",
+                url:"https://school-website-zjie.vercel.app/",
+            }
+        ]
+    },
+
     {
         title:"uifry Website",
         subtitle:"Figma Design was given and using Figma design developed a simple Nextjs Frontend website",
